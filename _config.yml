@@ -27,7 +27,7 @@ links:
   - title: About
     url: /about
   - title: Article
-    url: /article    
+    url: /articles    
   - title: Github
     url: https://github.com/sheriliu
     external: true
