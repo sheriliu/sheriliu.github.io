@@ -26,8 +26,12 @@ tools:
 links:
   - title: About
     url: /about
-  - title: Article
-    url: /articles    
+  - title: Blog
+    url: /blog    
+  - title: Projects
+    url: /projects
+  - title: Photography
+    url: /photography          
   - title: Github
     url: https://github.com/sheriliu
     external: true

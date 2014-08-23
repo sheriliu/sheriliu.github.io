@@ -1,26 +1,23 @@
 ---
-layout: post
+layout: page
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+title: About
+description: I'm Allan Inocêncio de Souza Costa. This is my name, at least.
+tags: [about]
 image:
-  feature: soft-trees.jpg
+  feature:  night_sunset_f.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+I found it difficult to say I'm a bunch of words or vocalized sounds, so I think it's better to make the distinction. Anyway, I tend to use just Allan Costa for shortness or allanino for really short. I like the sound of it, rhymes with neutrino.
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+Besides my interest in ontological questions and other philosophical matters, I'm true passionate about Mathematics. Sometimes I have this sense of wonder when faced by its beautiful, even mysterious, structures and patterns. It's not so surprising that I'm a platonist, in the sense that I believe that mathematics is discovered, not invented.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+I have also a lot of interest in diverse fields, from physics and astronomy, which I studied as an undergraduate for two years, to artificial intelligence, programming, science fiction, photography and music (I'm teaching myself to play the piano).
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+Currently, I'm a student at UFSCar (Universidade Federal de São Carlos) in Brazil, doing Master's studies in Mathematics.
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+I created this website to talk about the things I like, which includes all of above subjects and a little more. But more than a blog, it is also a hub for any projects I come to conceive.
+
+If you want more: [about.me/allanino][1]
+
+[1]:http://about.me/allanino
